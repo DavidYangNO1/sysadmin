@@ -1,0 +1,12 @@
+/Users/imac/Desktop/rust/adminsystem/sysadmin/sysadmin-config/target/rls/debug/deps/serde_hjson-98cf3f5ded440c6d.rmeta: /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/lib.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/forward.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/builder.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/de.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/error.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/ser.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/util.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/value.rs
+
+/Users/imac/Desktop/rust/adminsystem/sysadmin/sysadmin-config/target/rls/debug/deps/serde_hjson-98cf3f5ded440c6d.d: /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/lib.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/forward.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/builder.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/de.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/error.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/ser.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/util.rs /Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/value.rs
+
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/lib.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/forward.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/builder.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/de.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/error.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/ser.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/util.rs:
+/Users/imac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-hjson-0.9.1/src/value.rs:
