@@ -10,19 +10,3 @@ pub  struct DataBase {
     pub username : String,
     pub password : String,
 }
-
-impl Default for DataBase {
-    
-    fn default() -> DataBase {
-
-        DataBase {
-            dbtype : "mysql".to_string(),
-            host :  "127.0.0.1".to_string(),
-            port : 3306 ,
-            database : "systemadmin".to_string(),
-            username : "root".to_string(),
-            password : "root".to_string(),
-        }
-
-    }
-}
