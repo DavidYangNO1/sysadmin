@@ -1,10 +1,7 @@
-extern crate serde;
-extern crate serde_json;
-
 use serde::{Serialize,Deserialize};
 use syscolumns;
 
-#[derive(Serialize,Deserialize,Queryable)]
+#[derive(Serialize,Deserialize)]
 pub struct SysTables {
     pub tableId : i32,
     pub tableName : String,

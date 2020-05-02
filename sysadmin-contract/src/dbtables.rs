@@ -1,9 +1,6 @@
-extern crate serde;
-extern crate serde_json;
-
 use serde::{Serialize,Deserialize};
 
-#[derive(Serialize,Deserialize,Queryable)]
+#[derive(Serialize,Deserialize)]
 pub struct DBTables {
     pub tableName : String,
     pub engine : String,
