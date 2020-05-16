@@ -1,8 +1,8 @@
-use sqlx::{mysql::MySqlPool};
+use sqlx::mysql::MySqlPool;
 
-pub fn clientPool(conectStr : &String) -> Option<MySqlPool> {
+pub fn clientPool(conectStr: &String) -> Option<MySqlPool> {
     if conectStr.is_empty() {
-        return None
+        return None;
     }
     MySqlPool::new(conectStr).await?
 }
