@@ -3,7 +3,7 @@ use chrono::DateTime;
 
 #[derive(Serialize,Deserialize)]
 pub struct BaseMode {
-    pub createat : DateTime,
-    pub updateat : DateTime,
-    pub deleteat : DateTime,
+    pub createAt : DateTime,
+    pub updateAt : DateTime,
+    pub deleteAt : DateTime,
 }

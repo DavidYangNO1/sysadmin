@@ -11,7 +11,7 @@ pub struct LoginLog {
     pub loginlocation : String,
     pub browser : String,
     pub os : String,
-    pub  platform : String,
+    pub platform : String,
     pub logintime : DateTime,
     pub basemode : BaseMode,
     pub datascope : String,
